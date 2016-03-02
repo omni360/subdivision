@@ -1,0 +1,17 @@
+{
+  "name": "sub",
+  "version": "1.0.0",
+  "description": "subivision 3d model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.74.0",
+    "three-js": "^74.0.5",
+    "three-obj-loader": "^1.0.2",
+    "three-subdivision-modifier": "^1.0.4"
+  }
+}
